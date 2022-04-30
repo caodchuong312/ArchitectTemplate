@@ -379,6 +379,9 @@ html {
     .nav-name-primary {
         display: none;
     }
+    .background{
+        top: 50px;
+    }
 }
 
 
